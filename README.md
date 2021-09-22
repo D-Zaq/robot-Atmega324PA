@@ -69,25 +69,3 @@ poussoir, la routine d’interruption externe sera exécutée (bool clique = tru
 passera alors en mode manoeuvre où un switch case sélectionne le bon cas afin 
 d'exécuter la fonction de manoeuvre préprogrammée. À la fin de ce mode (après que
 la manoeuvre se termine), on revient au mode détection (clique = false). 
-
-# 2. Expérience de travail à distance
-
-Pour ce qui est de l’expérience de travail à distance, nous avons été agréablement 
-surpris. En effet, avant de commencer le projet, nous étions un peu réticents au 
-changement étant donné que les circonstances liées au covid-19 ont fait en sorte que 
-l’environnement de travail et nos états psychologiques n’étaient pas optimaux pour la 
-réalisation de notre premier projet d’envergure.
-
-Cependant, des plateformes de communications et de partages nous ont permis de 
-rendre le travail en équipe plutôt agréable. Le logiciel Discord nous a permis de 
-discuter en groupe dans des appels vocaux et sur messages textuels à tout moment 
-et de pouvoir se partager nos écrans pour faciliter le travail. De plus, les chargés des 
-laboratoires ont réussi à être présents et actifs afin de répondre à nos moindres soucis. 
-La plateforme Git nous a permis de pouvoir avoir sur nos ordinateurs chacun des 
-fichiers nécessaires aux projets, de pouvoir travailler dessus en équipe et de pouvoir les mettre à jour. 
-Le logiciel SimullDE nous a permis d’avoir une simulation assez proche de la réalité et le fait d’avoir 
-l’écran LCD nous a permis de déboguer de façon plus efficace qu’avec la DEL sur le robot physique.
-
-En somme, il est vrai que travailler sur un robot physique et de le voir réaliser un 
-parcours aurait été plus amusant et stimulant, mais, en ces temps de crise, on pense 
-que notre projet à distance s’est bien déroulé.
